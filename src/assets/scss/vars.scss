@@ -1,0 +1,10 @@
+$black: #150202;
+$red: #bc002d;
+$gray: #b5b5b5;
+
+// ====================================================
+
+@mixin monset() {
+   font-family: "Montserrat", sans-serif;
+   font-weight: 700;
+}
